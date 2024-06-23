@@ -12,7 +12,7 @@ This is a streamlit project which uses Langchain with ChatGoogleGenerativeAI to 
 1. [Nikhil Vijai](https://github.com/Nikhilvijai)
 2. [Madhav-j-nair](https://github.com/madhav-j-nair)
 ### Link to product walkthrough
-[(https://github.com/Nikhilvijai/project_prAI/assets/162718363/bfb1b98e-1113-4518-b27b-59ffffae9e98)](LinkHere)
+[(https://github.com/Nikhilvijai/project_prAI/assets/162718363/bfb1b98e-1113-4518-b27b-59ffffae9e98)](Link Here)
 ### How it Works ?
 
 1. The first process is fetching latitude and longitude using ipinfo.io website. Then the data is sent to gemini to get the details of the plants which can be grown in our space and the data is displayed to user.
