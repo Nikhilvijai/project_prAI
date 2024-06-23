@@ -5,7 +5,8 @@
 
 
 
-###
+### ![arecaai](https://github.com/Nikhilvijai/project_prAI/assets/146342079/d15b1134-551b-4009-97fd-ef53dde62cb5)
+
 This project is a Flask-based API designed to provide detailed information about plants and trees. Users can obtain descriptions, biological data, market details, and growth instructions for specified plants or trees. The API leverages Google's Generative AI to process and retrieve the requested information.
 ### Team members
 1. [Nikhil Vijai](https://github.com/Nikhilvijai)
