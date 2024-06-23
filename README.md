@@ -19,7 +19,7 @@ This is a streamlit project which uses Langchain with ChatGoogleGenerativeAI to 
 
 2. The second process is accepting a plant of his choice and then giving him an option to know about the "DESCRIPTION","BIOLOGICAL DATA","MARKET DETAILS","HOW TO GROW". Based on this option a prompt is sent to gemini and the results are displayed
 
-3. The next process is to ask for the user whether he has any questions(what is displayed:"Would you like to ask another question") if yes(y) then the question(what is displayed:"Enter your follow-up question") is recieved and it is prompted to gemini after which results are approacged. If he has cleared all his doubts and answers no(n) for anymore questions he is bid farewell till the next time he visits again.
+3. The next process is to ask for the user whether he has any questions(what is displayed:"Would you like to ask another question") if yes(y) then the question(what is displayed:"Enter your follow-up question") is recieved and it is prompted to gemini after which results are displayed, this loop continues till his doubts are cleared. If he has cleared all his doubts and answers no(n) for anymore questions he is bid farewell till the next time he visits again.
    
 ### Libraries used
 1.requests
