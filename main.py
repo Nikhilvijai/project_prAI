@@ -5,7 +5,7 @@ import streamlit as st
 
 st.image("arecaai.png")
 os.environ["GOOGLE_API_KEY"] = "..API_KEY.."  # Assuming you have your API key stored securely
-llm = ChatGoogleGenerativeAI(model="gemini-pro", google_api_key="AIzaSyAV3RqcXc1Jwq4uLfTDJj7FYqxKLEib9MM")
+llm = ChatGoogleGenerativeAI(model="gemini-pro", google_api_key="..")
 
 
 
